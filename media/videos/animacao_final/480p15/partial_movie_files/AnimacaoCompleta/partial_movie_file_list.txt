@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/yosef/PycharmProjects/Curva_IV/curvas_iv/media/videos/animacao_final/480p15/partial_movie_files/AnimacaoCompleta/1185818338_2797907057_223132457.mp4'
+file 'file:/home/yosef/PycharmProjects/Curva_IV/curvas_iv/media/videos/animacao_final/480p15/partial_movie_files/AnimacaoCompleta/624642324_2341082278_1085720460.mp4'
+file 'file:/home/yosef/PycharmProjects/Curva_IV/curvas_iv/media/videos/animacao_final/480p15/partial_movie_files/AnimacaoCompleta/624642324_1204965330_2516543604.mp4'
+file 'file:/home/yosef/PycharmProjects/Curva_IV/curvas_iv/media/videos/animacao_final/480p15/partial_movie_files/AnimacaoCompleta/624642324_4166842112_2166382945.mp4'
